@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Mini Note</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_note">Enter Note</string>
+    <string name="view_note">View Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+
+    <!-- Add Note Activity -->
+    <string name="title_activity_add_note">Add A Note</string>
+    <string name="add_note_title_prompt">Title:</string>
+    <string name="add_note_note_prompt">Note:</string>
+    <string name="add_note_button_label">Add Note</string>
+
+    <!-- View Note Activity -->
+    <string name="title_activity_view_note">View Note</string>
+    <string name="view_note_title">Title:</string>
+    <string name="view_note_note">Note:</string>
+    <string name="delete_note_button_label">Delete Note</string>
+
+    <!-- Error Messages -->
+    <string name="db_open_error_message">There was an error opening the Database</string>
+    <string name="title_or_note_empty">The title and note text are both required.</string>
+    <string name="max_note_length">Sorry, the maximum note length is 125 characters.</string>
+    <string name="db_insert_error">Unable to insert record into database.</string>
+    <string name="db_insert_ok">Record inserted okay.</string>
+    <string name="title_activity_view_note_detail">ViewNoteDetailActivity</string>
+
+    <!-- Menu Items -->
+    <string name="add_note_menu_item">Add Note</string>
+    <string name="home_menu_item">Home</string>
+    <string name="search_menu_item">Search</string>
+    <string name="title_activity_search">Search</string>
+
+    <!-- Testing -->
+    <string name="frikin_test">JAFT!</string>
+    <string name="frikin_test_two">JAFT Two!!!</string>
+
+</resources>

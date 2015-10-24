@@ -1,0 +1,13 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.scotshouse.mininote.SearchActivity">
+
+    <item
+        android:id="@+id/action_add_note"
+        android:title="@string/add_note_menu_item"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+</menu>
