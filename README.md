@@ -1,6 +1,6 @@
 # CMS395 - Mobile App Development - Project 4
 
-This is project 4 for CMS395 - Mobile App Development at Rollins College
+This is Project #4 for CMS395 - Mobile App Development at Rollins College
 
 Our instructions are:
 
